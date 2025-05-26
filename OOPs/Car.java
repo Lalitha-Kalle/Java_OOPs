@@ -13,9 +13,9 @@ acc
 class Car {
   private int speed;
   private String name;
-  public static int acceralator() {
+  // public static int acceralator() {
 
-  };
+  // };
   
 
   Car(String name, int speed, int acceralator) {
