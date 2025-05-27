@@ -20,7 +20,7 @@ class Car {
 
   Car(String name, int speed, int acceralator) {
     this.name = name;
-    this.acceralator = acceralator;
+    // this.acceralator = acceralator;
     this.speed = speed;
   }
   public static void display(String name, int speed) {
